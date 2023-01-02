@@ -1,1 +1,7 @@
 working directory ----> staging area -----> local repository
+
+for checking what diffrence we made 
+git diff chapter1.txt
+
+for rollback to its previous version
+git checkout chapter1.txt
