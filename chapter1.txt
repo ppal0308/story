@@ -5,3 +5,5 @@ git diff chapter1.txt
 
 for rollback to its previous version
 git checkout chapter1.txt
+
+checking branch
